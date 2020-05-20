@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Zhuotao Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Improve myself; Lover my family; Impact my field."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zliuInspire/zliuInspire.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  name             : "Taken in 2019 @ Tsinghua"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. in System and Networking"
   location         : # "Location"
-  employer         :
-  pubmed           : ""
+  employer         : "Google"
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en"
   email            : "redemptionliu1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zliuInspire"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zliuinspire/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
