@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taken in 2019 @ Tsinghua"
-  avatar           : "profile.jpg"
+  name             : "Photo Taken in 2019 @ Tsinghua"
+  avatar           : "profile"
   bio              : "Ph.D. in System and Networking"
   location         : # "Location"
   employer         : "Google"
