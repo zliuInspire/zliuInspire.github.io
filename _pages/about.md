@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+# Short Bio
+
+---
+
+I am currently a tech lead at Google, managing Google's private Wide Area (WAN) Network that hyper-connect Google's massive-scale Datacenters across the globe. I am also in active collaboration with many outstanding professors and researchers on many exciting topics. Prior joining Google, I worked in VMWare, NEC Labs America, and Yahoo! as interns. 
+
+I received a Ph.D. degree in Computer Engineer from University of Illinois at Urbana Champaign (UIUC) in 2017 and B.S. degree in Electrical Engineering from Shanghai Jiao Tong University (SJTU) in 2012. My primary research areas are systems and networking, with special interest in Blockchain infrastructure, Internet security & privacy, system security, and datacenter networking. 
+
+I recevied National Scholarship for three consecutive years from 2009 to 2011 as an undergraduate and the Chiang Chen Overseas Graduate Fellowship from 2013 to 2015.
+
 # News
 
 --- 
@@ -34,15 +44,6 @@ redirect_from:
 
 [Media] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
 
-# Short Bio
-
----
-
-I am currently a tech lead at Google, managing Google's private Wide Area (WAN) Network that hyper-connect Google's massive-scale Datacenters across the globe. I am also in active collaboration with many outstanding professors and researchers on many exciting topics. Prior joining Google, I worked in VMWare, NEC Labs America, and Yahoo! as interns. 
-
-I received a Ph.D. degree in Computer Engineer from University of Illinois at Urbana Champaign (UIUC) in 2017 and B.S. degree in Electrical Engineering from Shanghai Jiao Tong University (SJTU) in 2012. My primary research areas are systems and networking, with special interest in Blockchain infrastructure, Internet security & privacy, system security, and datacenter networking. 
-
-I recevied National Scholarship for three consecutive years from 2009 to 2011 as an undergraduate and the Chiang Chen Overseas Graduate Fellowship from 2013 to 2015.
 
 # Research
 
@@ -103,3 +104,12 @@ IEEE International Conference on Network Protocols (ICNP) 2017. [[PDF]](https://
 
 Zhuotao Liu, Hao Jin, Yih-Chun Hu, Michael Bailey:
 MiddlePolice: Toward Enforcing Destination-Defined Policies in the Middle of the Internet. ACM Conference on Computer and Communications Security (CCS) 2016. [[PDF]](https://arxiv.org/abs/1709.05710) [[Source]](https://github.com/zliuInspire/MiddlePolice)
+
+# Academic Servives
+
+**Journal Reviewers**
+- IEEE Transactions on Dependable and Secure Computing (2019, 2020)
+- IEEE Transactions on Information Forensics and Security (2018, 2019, 2020)
+- IEEE/ACM Transactions on Networking (2017, 2018)
+
+
