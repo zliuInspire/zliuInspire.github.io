@@ -22,27 +22,27 @@ I recevied National Scholarship for three consecutive years from 2009 to 2011 as
 
 --- 
 
-[Media] May 2020: HyperService is selected as the [Paper of the Week #57 by ZK Capital](https://zkcapital.substack.com) for Blockchain Research.  
+[**Media**] May 2020: HyperService is selected as the [Paper of the Week #57 by ZK Capital](https://zkcapital.substack.com) for Blockchain Research.  
 
-[Academic Services] TPC for Globecom2020 CISS, IFIP Networking 2020, and IEEE BigData 2020.
+[**Academic Services**] TPC for Globecom2020 CISS, IFIP Networking 2020, and IEEE BigData 2020.
 
-[Talks] 2019-2020 Presenting HyperService at IEEE Standardization leadership meeting, IC3 - The Initiative For Cryptocurrencies & Contracts, Tsinghua University, Shanghai Jiao Tong University, Zhejiang University, etc.
+[**Talks**] 2019-2020 Presenting HyperService at IEEE Standardization leadership meeting, IC3 - The Initiative For Cryptocurrencies & Contracts, Tsinghua University, Shanghai Jiao Tong University, Zhejiang University, etc.
 
-[Publications] September 2019: DeepIntent accepted in ACM CCS 2019.
+[**Publications**] September 2019: DeepIntent accepted in ACM CCS 2019.
 
-[Publications] July 2019: HyperService accepted in ACM CCS 2019. 
+[**Publications**] July 2019: HyperService accepted in ACM CCS 2019. 
 
-[Publications] March 2019: SmartCrowd accepted in IEEE ICDCS 2019. 
+[**Publications**] March 2019: SmartCrowd accepted in IEEE ICDCS 2019. 
 
-[Publications] January 2019: OpReduce accepted in IEEE TPDS 2019. 
+[**Publications**] January 2019: OpReduce accepted in IEEE TPDS 2019. 
 
-[Publications] August 2018: Umbrella accepted in IEEE TIFS 2019.
+[**Publications**] August 2018: Umbrella accepted in IEEE TIFS 2019.
 
-[Publications] June 2018: an extended version of MiddlePolice accepted in IEEE TON 2018. 
+[**Publications**] June 2018: an extended version of MiddlePolice accepted in IEEE TON 2018. 
 
-[Publications] April 2018: One paper accepted in IEEE/ACM IWQoS 2018. 
+[**Publications**] April 2018: One paper accepted in IEEE/ACM IWQoS 2018. 
 
-[Media] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
+[**Media**] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
 
 
 # Research
