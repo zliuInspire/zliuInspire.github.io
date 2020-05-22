@@ -39,4 +39,4 @@ SmartCrowd: Decentralized and Automated Incentives for Distributed IoT System De
 
 **Zhuotao Liu**, Hao Jin, Yih-Chun Hu, Michael Bailey:
 Practical Proactive DDoS-Attack Mitigation via Endpoint-Driven In-Network Traffic Control. 
-IEEE/ACM Transactions on Networking (TON) 2018 [[PDF]](https://zliuInspire.github.io/files/MiddlePoliceTon.pdf) [[DOI]](https://ieeexplore.ieee.org/document/8418343) [[Source]](https://github.com/zliuInspire/MiddlePolice)
+IEEE/ACM Transactions on Networking (TON) 2018. [[PDF]](https://zliuInspire.github.io/files/MiddlePoliceTon.pdf) [[DOI]](https://ieeexplore.ieee.org/document/8418343) [[Source]](https://github.com/zliuInspire/MiddlePolice)
