@@ -8,6 +8,30 @@ redirect_from:
   - /about.html
 ---
 
+# News
+
+--- 
+
+[[Media]] May 2020: HyperService is selected as the [Paper of the Week #57 by ZK Capital](https://zkcapital.substack.com) for Blockchain Research.  
+
+[[Academic Services]] TPC for Globecom2020 CISS, IFIP Networking 2020, and IEEE BigData 2020.
+
+[[Publications]] September 2019: DeepIntent accepted in ACM CCS 2019.
+
+[[Publications]] July 2019: HyperService accepted in ACM CCS 2019. 
+
+[[Publications]] March 2019: SmartCrowd accepted in IEEE ICDCS 2019. 
+
+[[Publications]] January 2019: OpReduce accepted in IEEE TPDS 2019. 
+
+[[Publications]] August 2018: Umbrella accepted in IEEE TIFS 2019.
+
+[[Publications]] June 2018: an extended version of MiddlePolice accepted in IEEE TON 2018. 
+
+[[Publications]] April 2018: One paper accepted in IEEE/ACM IWQoS 2018. 
+
+[[Media]] October 2017: MiddlePolice is selected as one of the NSF I-Corps program. 
+
 # Short Bio
 
 ---
@@ -56,3 +80,6 @@ IEEE/ACM International Symposium on Quality of Service (IWQoS) 2018. [[DOI]](htt
 **Zhuotao Liu**, Yushan Liu, Philipp Winter, Prateek Mittal, Yih-Chun Hu:
 TorPolice: Towards Enforcing Service-defined Access Policies for Anonymous Communication in the Tor Network.
 IEEE International Conference on Network Protocols (ICNP) 2017. [[PDF]](https://arxiv.org/abs/1708.08162) [[DOI]](https://ieeexplore.ieee.org/document/8117564)
+
+Zhuotao Liu, Hao Jin, Yih-Chun Hu, Michael Bailey:
+MiddlePolice: Toward Enforcing Destination-Defined Policies in the Middle of the Internet. ACM Conference on Computer and Communications Security (CCS) 2016. [[PDF]](https://arxiv.org/abs/1709.05710) [[Source]](https://github.com/zliuInspire/MiddlePolice)
