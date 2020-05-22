@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 # Short Bio
+
 ---
+
 I am currently a tech lead at Google, managing Google's private Wide Area (WAN) Network that hyper-connect Google's massive-scale Datacenters across the globe. I am also in active collaboration with many outstanding professors and researchers on many exciting topics. Prior joining Google, I worked in VMWare, NEC Labs America, and Yahoo! as interns. 
 
 I received a Ph.D. degree in Computer Engineer from University of Illinois at Urbana Champaign (UIUC) in 2017 and B.S. degree in Electrical Engineering from Shanghai Jiao Tong University (SJTU) in 2012. My primary research areas are systems and networking, with special interest in Blockchain infrastructure, Internet security & privacy, system security, and datacenter networking. 
@@ -17,8 +19,10 @@ I received a Ph.D. degree in Computer Engineer from University of Illinois at Ur
 I recevied National Scholarship for three consecutive years from 2009 to 2011 as an undergraduate and the Chiang Chen Overseas Graduate Fellowship from 2013 to 2015.
 
 # Publications
+
 ---
-This publication list may not be up-to-date. A complete publication list can be found on my [scholar page](https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en). 
+
+*This publication list may not be up-to-date. A complete publication list can be found on my [scholar page](https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en).* 
 
 Bo Wu, Ke Xu, Qi Li, Shoushou Ren, **Zhuotao Liu**, Zhichao Zhang:
 Toward Blockchain-Powered Trusted Collaborative Services for Edge-Centric Networks. IEEE Network 2020. [[DOI]](https://ieeexplore.ieee.org/document/9055734)
@@ -40,3 +44,15 @@ SmartCrowd: Decentralized and Automated Incentives for Distributed IoT System De
 **Zhuotao Liu**, Hao Jin, Yih-Chun Hu, Michael Bailey:
 Practical Proactive DDoS-Attack Mitigation via Endpoint-Driven In-Network Traffic Control. 
 IEEE/ACM Transactions on Networking (TON) 2018. [[PDF]](https://zliuInspire.github.io/files/MiddlePoliceTon.pdf) [[DOI]](https://ieeexplore.ieee.org/document/8418343) [[Source]](https://github.com/zliuInspire/MiddlePolice)
+
+**Zhuotao Liu**, Kai Chen, Haitao Wu, Shuihai Hu, Yih-Chun Hu, Yi Wang, Gong Zhang:
+Enabling Work-Conserving Bandwidth Guarantees for Multi-Tenant Datacenters via Dynamic Tenant-Queue Binding.
+IEEE Conference on Computer Communications (INFOCOM) 2018. [[PDF]](https://arxiv.org/abs/1712.06766) [[DOI]](https://ieeexplore.ieee.org/document/8486219)
+
+Bo Wu, Ke Xu, Qi Li, **Zhuotao Liu**, Yih-Chun Hu, Martin J. Reed, Meng Shen, Fan Yang:
+Enabling Efficient Source and Path Verification via Probabilistic Packet Marking.
+IEEE/ACM International Symposium on Quality of Service (IWQoS) 2018. [[DOI]](https://ieeexplore.ieee.org/document/8624169)
+
+**Zhuotao Liu**, Yushan Liu, Philipp Winter, Prateek Mittal, Yih-Chun Hu:
+TorPolice: Towards Enforcing Service-defined Access Policies for Anonymous Communication in the Tor Network.
+IEEE International Conference on Network Protocols (ICNP) 2017. [[PDF]](https://arxiv.org/abs/1708.08162) [[DOI]](https://ieeexplore.ieee.org/document/8117564)
