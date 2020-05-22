@@ -102,7 +102,7 @@ IEEE/ACM International Symposium on Quality of Service (IWQoS) 2018. [[DOI]](htt
 TorPolice: Towards Enforcing Service-defined Access Policies for Anonymous Communication in the Tor Network.
 IEEE International Conference on Network Protocols (ICNP) 2017. [[PDF]](https://arxiv.org/abs/1708.08162) [[DOI]](https://ieeexplore.ieee.org/document/8117564)
 
-Zhuotao Liu, Hao Jin, Yih-Chun Hu, Michael Bailey:
+**Zhuotao Liu**, Hao Jin, Yih-Chun Hu, Michael Bailey:
 MiddlePolice: Toward Enforcing Destination-Defined Policies in the Middle of the Internet. ACM Conference on Computer and Communications Security (CCS) 2016. [[PDF]](https://arxiv.org/abs/1709.05710) [[Source]](https://github.com/zliuInspire/MiddlePolice)
 
 # Academic Services
