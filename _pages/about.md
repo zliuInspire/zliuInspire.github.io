@@ -16,7 +16,7 @@ redirect_from:
 
 [Academic Services] TPC for Globecom2020 CISS, IFIP Networking 2020, and IEEE BigData 2020.
 
-[Talks] 2019-2020 Presenting HyperService at IEEE Standardization leadership meeting, IC3 - The Initiative For Cryptocurrencies & Contracts, Tsinghua University, Shanghai Jiao Tong University and Zhejiang University. 
+[Talks] 2019-2020 Presenting HyperService at IEEE Standardization leadership meeting, IC3 - The Initiative For Cryptocurrencies & Contracts, Tsinghua University, Shanghai Jiao Tong University, Zhejiang University, etc.
 
 [Publications] September 2019: DeepIntent accepted in ACM CCS 2019.
 
@@ -32,7 +32,7 @@ redirect_from:
 
 [Publications] April 2018: One paper accepted in IEEE/ACM IWQoS 2018. 
 
-[Media] October 2017: MiddlePolice is selected as one of the NSF I-Corps program. 
+[Media] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
 
 # Short Bio
 
@@ -43,6 +43,24 @@ I am currently a tech lead at Google, managing Google's private Wide Area (WAN) 
 I received a Ph.D. degree in Computer Engineer from University of Illinois at Urbana Champaign (UIUC) in 2017 and B.S. degree in Electrical Engineering from Shanghai Jiao Tong University (SJTU) in 2012. My primary research areas are systems and networking, with special interest in Blockchain infrastructure, Internet security & privacy, system security, and datacenter networking. 
 
 I recevied National Scholarship for three consecutive years from 2009 to 2011 as an undergraduate and the Chiang Chen Overseas Graduate Fellowship from 2013 to 2015.
+
+# Research
+
+---
+
+I worked in the area of system and networking. I have authored and co-authored papers covering the following topics: Blockchain infrastructure, secure Internet routing, privacy-preserving DDoS prevention, advanced persistent threat, peer-to-peer network anonymity, Cloud computing, IoT security, etc. 
+
+Going forward, my research will center around the following theme: **Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems**
+
+- Blockchain-Assisted Secure Infrastructure:
+  - Transparent and trustworthy computing by Enterprise Blockchain Consortium 
+  - Security systems for Internet architecture and industry IoT 
+
+- Distributed Systems with Built-in (Artificial) Intelligence:
+  - Intelligent distributed systems powered by ML and data analysis, covering architectural design, management, performance, and deployment
+  
+- Deployment-Driven System Implementation: 
+  - Industry adoption is the first-class citizen
 
 # Publications
 
