@@ -105,7 +105,7 @@ IEEE International Conference on Network Protocols (ICNP) 2017. [[PDF]](https://
 Zhuotao Liu, Hao Jin, Yih-Chun Hu, Michael Bailey:
 MiddlePolice: Toward Enforcing Destination-Defined Policies in the Middle of the Internet. ACM Conference on Computer and Communications Security (CCS) 2016. [[PDF]](https://arxiv.org/abs/1709.05710) [[Source]](https://github.com/zliuInspire/MiddlePolice)
 
-# Academic Servives
+# Academic Services
 
 **Journal Reviewers**
 - IEEE Transactions on Dependable and Secure Computing (2019, 2020)
