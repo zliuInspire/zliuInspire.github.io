@@ -49,7 +49,7 @@ I recevied National Scholarship for three consecutive years from 2009 to 2011 as
 
 ---
 
-I worked in the area of system and networking. I have authored and co-authored papers covering the following topics: Blockchain infrastructure, secure Internet routing, privacy-preserving DDoS prevention, advanced persistent threat, peer-to-peer network anonymity, Cloud computing, IoT security, etc. 
+I worked in the area of system and networking. I have authored and co-authored papers covering the following topics: Blockchain infrastructure, Datacenter networking, secure Internet routing, privacy-preserving DDoS prevention, advanced persistent threat, peer-to-peer network anonymity, Cloud computing, IoT security, etc. 
 
 Going forward, my research will center around the following theme: **Secure, Intelligent, and Practical Designs and Implementations for Large-Scale Distributed Systems**
 
@@ -58,7 +58,7 @@ Going forward, my research will center around the following theme: **Secure, Int
   - Security systems for Internet architecture and industry IoT 
 
 - Distributed Systems with Built-in (Artificial) Intelligence:
-  - Intelligent distributed systems powered by ML and data analysis, covering architectural design, management, performance, and deployment
+  - Intelligent distributed system designs powered by ML and data analysis, covering architectural design, management, performance, and deployment
   
 - Deployment-Driven System Implementation: 
   - Industry adoption is the first-class citizen
