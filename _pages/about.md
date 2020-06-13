@@ -63,7 +63,7 @@ Going forward, my research will center around the following theme: **Secure, Int
 - Deployment-Driven System Implementation: 
   - Industry adoption is the first-class citizen
 
-# Publications
+# Recent Publications
 
 ---
 
