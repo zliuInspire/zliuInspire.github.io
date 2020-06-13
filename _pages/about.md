@@ -38,7 +38,7 @@ I recevied the National Scholarship for three consecutive years from 2009 to 201
 
 [**Publications**] August 2018: Umbrella accepted in IEEE TIFS 2019.
 
-[**Publications**] June 2018: an extended version of MiddlePolice accepted in IEEE TON 2018. 
+[**Publications**] June 2018: an extended version of MiddlePolice accepted in IEEE/ACM TON 2018. 
 
 [**Publications**] April 2018: PPV accepted in IEEE/ACM IWQoS 2018. 
 
