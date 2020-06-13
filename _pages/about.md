@@ -40,7 +40,7 @@ I recevied the National Scholarship for three consecutive years from 2009 to 201
 
 [**Publications**] June 2018: an extended version of MiddlePolice accepted in IEEE TON 2018. 
 
-[**Publications**] April 2018: One paper accepted in IEEE/ACM IWQoS 2018. 
+[**Publications**] April 2018: PPV accepted in IEEE/ACM IWQoS 2018. 
 
 [**Media**] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
 
