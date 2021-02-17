@@ -18,33 +18,6 @@ I earned a Ph.D. degree in Computer Engineer from University of Illinois at Urba
 
 I recevied the National Scholarship for three consecutive years from 2009 to 2011 as an undergraduate and the Chiang Chen Overseas Graduate Fellowship from 2013 to 2015.
 
-# News
-
---- 
-
-[**Media**] May 2020: HyperService is selected as the [Paper of the Week #57 by ZK Capital](https://zkcapital.substack.com) for Blockchain Research.  
-
-[**Academic Services**] TPC for Globecom2020 CISS, IFIP Networking 2020, and IEEE BigData 2020.
-
-[**Talks**] 2019-2020 Presenting HyperService at IEEE Standardization leadership meeting, IC3 - The Initiative For Cryptocurrencies & Contracts, Tsinghua University, Shanghai Jiao Tong University, Zhejiang University, etc.
-
-[**Publications**] September 2019: DeepIntent accepted in ACM CCS 2019.
-
-[**Publications**] July 2019: HyperService accepted in ACM CCS 2019. 
-
-[**Publications**] March 2019: SmartCrowd accepted in IEEE ICDCS 2019. 
-
-[**Publications**] January 2019: OpReduce accepted in IEEE TPDS 2019. 
-
-[**Publications**] August 2018: Umbrella accepted in IEEE TIFS 2019.
-
-[**Publications**] June 2018: an extended version of MiddlePolice accepted in IEEE/ACM TON 2018. 
-
-[**Publications**] April 2018: PPV accepted in IEEE/ACM IWQoS 2018. 
-
-[**Media**] October 2017: MiddlePolice is selected as one of the national NSF I-Corps programs. 
-
-
 # Research
 
 ---
@@ -68,6 +41,14 @@ Going forward, my research will center around the following theme: **Secure, Int
 ---
 
 *This publication list may not be up-to-date. A complete publication list can be found on my [scholar page](https://scholar.google.com/citations?user=F8gi4rcAAAAJ&hl=en).* 
+
+**Zhuotao Liu**, Hao Zhao, Sainan Li, Qi Li, Tao Wei, Yu Wang:
+Privilege-Escalation Vulnerability Discovery for Large-scale RPC Services: Principle, Design, and Deployment. 
+To appear in ACM Asia Conference on Computer and Communications Security (Asia CCS) 2021. 
+
+Qiyang Song, **Zhuotao Liu**, Jiahao Cao, Kun Sun, Qi Li, Cong Wang: 
+SAP-SSE: Protecting Search Patterns and Access Patterns in Searchable Symmetric Encryption. 
+IEEE Transactions on Information Forensics and Security (TIFS) 2020. [[DOI]](https://ieeexplore.ieee.org/abstract/document/9276436)
 
 Bo Wu, Ke Xu, Qi Li, Shoushou Ren, **Zhuotao Liu**, Zhichao Zhang:
 Toward Blockchain-Powered Trusted Collaborative Services for Edge-Centric Networks. IEEE Network 2020. [[DOI]](https://ieeexplore.ieee.org/document/9055734)
